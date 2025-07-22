@@ -1,16 +1,25 @@
-# Frontend-Projects
+# Frontend Projects
 
-This repository contains a collection of small frontend projects created using HTML, CSS, and JavaScript. Each project is built for learning and practicing basic frontend development skills.
+A collection of beginner-friendly frontend projects built using **HTML**, **CSS**, and **JavaScript** to improve web development skills.
 
-## Projects Included
+## 🚀 Projects Included
 
-1. *To-Do List App* – A simple application to add, delete, and manage tasks.
-2. *Rock Paper Scissors Game* – A basic game where the user can play against the computer.
-3. *Calculator* – A basic calculator that performs arithmetic operations.
+✅ To-Do List App – Add, delete, and manage your daily tasks.
+🪨📄✂️ Rock Paper Scissors Game – Play against the computer with random choices.
+🧮 Calculator  – Perform basic arithmetic operations.
+🌦️ Weather App – Get weather details using a public API.
+📝 Daily Routine Page – A sample HTML layout of a daily schedule.
+👩‍💻 Portfolio Page – A simple portfolio template.
 
+## 🛠️ Technologies Used
 
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
+* HTML
+* CSS
+* JavaScript
+
+## 📁 Folder Structure
+
+* `images/` – Images used in the projects
+* `scripts/` – JavaScript files
+* `styles/` – CSS files
 
